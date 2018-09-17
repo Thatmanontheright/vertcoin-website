@@ -45,6 +45,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 * [Hodlertees](http://hodlertees.com/)
 * [King Pen Vapes](http://KingPenVapes.com)
 * [Lazy Pyramid](https://lazypyramid.com)
+* [Luma Cards](https://www.lumacards.co.uk/) 
 * [NakamotoClothing](https://nakamotoclothingco.com/collections/vertcoin)
 * [SatoshiMarket](https://satoshimarket.io/)
 * [Spreadshirt](https://shop.spreadshirt.com/vertcoinmerch/)
@@ -73,6 +74,7 @@ If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store 
 # Technology & Internet
 * [AirVPN](https://airvpn.org/)
 * [Coinhost](http://coinhost.io)
+* [Crypto.space](https://crpto.space/products/vertcoin_homepage/) 
 * [Fasttech](https://www.fasttech.com/)
 * [GPS Tracking Made Easy](https://gpstrackingmadeeasy.com/)
 * [Evolution-Host](https://evolution-host.com/)
